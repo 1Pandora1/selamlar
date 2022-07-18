@@ -1,1 +1,2 @@
-# Bu repoda bir şey yok sadece aero için onaylılar listem var.
+# 
+Bu repoda bir şey yok sadece aero için onaylılar listem var.
